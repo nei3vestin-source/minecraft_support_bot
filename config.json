@@ -1,0 +1,7 @@
+{
+  "bot_token": "MTU2MzIyODEwNDY5NTA4NzEwNA.GVODSV.D6-keRw986392zGHhQh4pnrK8cDM2cNEH8I-8w",
+  "log_channel_id": 1562914851800621101,
+  "api_port": 8080,
+  "api_secret": "my-secret-token-change-me",
+  "allowed_ips": ["127.0.0.1"]
+}
